@@ -1,0 +1,18 @@
+Node_Modules		-	Dependencies (Packages)	
+
+Public	:		-	(Static Files (HTML / Images Etc..)
+	Index.html	-	HTML Page Template
+
+Src :			-	Source Folder	
+	Index.js	-	Entry Point Of Out App
+	App.js		-	Main Component Of Our App
+	Styles.css	-	Style Sheet Of Our Project
+	Package.json	-	Dependencies (Packages)
+
+
+Package.json		-	Record Our Project Dependencies	 & Projects Configuration
+Package-lock.json	-	Record The Exact version Of Packages	
+README.md		-	Instruct To Run	
+.gitignore		-	Git Ignore Version Control System
+
+	
