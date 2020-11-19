@@ -1,0 +1,4 @@
+Faker.js		:	Fake Images, Address, Etcs
+Semantic UI CDN		:	Css Online
+dashboard.stripe.com	:	dashboard (Using React)
+Geolocation.API		:	Where You Are Physically Located 
